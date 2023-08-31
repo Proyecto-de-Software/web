@@ -8,10 +8,11 @@ Información de la infraestructura del servidor de la asignatura Proyecto de Sof
 
 ## Versiones a utilizar
 
-- Lenguaje: <strong>Python 3.10.12</strong>.
+- Lenguaje: <strong>Python 3.8.10</strong>.
 - Servidor Web: <strong>nginx/1.18.0 (Ubuntu)</strong>.
+- Dependencias Python: <strong>Poetry (1.6.1)</strong>.
 <!--- - Servidor de Base de Datos: <strong>PostgreSQL 15</strong>. -->
-<!---- Node: <strong>v14.20.0 (npm 6.14.17)</strong>. -->
+<!--- - Node: <strong>v14.20.0 (npm 6.14.17)</strong>. -->
 
 ## Código en el server para cada grupo
 

@@ -29,6 +29,7 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Explicaciones Prácticas: explicaciones.md
   - Guías:
       - Comandos: guias/01_commands.md
       - Ssh: guias/02_ssh.md

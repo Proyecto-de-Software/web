@@ -4,7 +4,7 @@
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/ycKTMUCqHVs" frameborder="0" allowfullscreen></iframe>
 
-## Clase 1 - Clase 1 - Git
+## Clase 1 - Git
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/Ir2WiPwJcPA" frameborder="0" allowfullscreen></iframe>
 

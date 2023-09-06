@@ -240,6 +240,24 @@ Obtiene el listado de solicitudes realizadas por el usuario autentificado.
     + Attributes (ListRequestData)
 
 
+## Listado de solicitudes de servicio realizadas por el usuario logueado [/api/me/requests]
+
+### Obtiene el listado de solicitudes del usuario logueado [GET]
+
+Obtiene el listado de solicitudes realizadas por el usuario autentificado.
+
+**Información del endpoint**
+
+<i class="fa fa-check"></i> Requiere autenticación
+
++ Request
+    + Headers
+
+            Authorization: JWT <token>
+
++ Response 200 (application/json)
+    + Attributes (ListRequestData)
+
 ## Carga una solicitud de servicio [/api/requests/{id} POST]
 
 + Parameters

@@ -23,3 +23,7 @@
 ## Clase 5 - Autenticación
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/vkLo91OrFEw" frameborder="0" allowfullscreen></iframe>
+
+## Clase 6 - Autorización
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/glme3g8WmK0" frameborder="0" allowfullscreen></iframe>

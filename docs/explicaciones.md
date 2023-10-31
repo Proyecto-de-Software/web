@@ -31,3 +31,7 @@
 ## Clase 7 - API Rest
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/T2bKr2BhxWA" frameborder="0" allowfullscreen></iframe>
+
+## Clase 8 - Vue JS
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/hQz4VZL2q8s" frameborder="0" allowfullscreen></iframe>

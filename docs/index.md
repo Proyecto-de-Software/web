@@ -1,47 +1,63 @@
-# Infraestructura del servidor la cátedra
+# 👋 ¡Bienvenidos al portal de la cátedra!
 
-Información de la infraestructura del servidor de la asignatura Proyecto de Software.
+En la cátedra de Proyecto de Software de la Facultad de Informática de la UNLP, ofrecemos a
+los alumnos la oportunidad de aplicar sus conocimientos en la realización de un proyecto web completo.
+Este espacio está dedicado a brindar información necesaria para la materia, incluyendo marerial
+del curso, guías, accesos y recursos útiles para el desarrollo del proyecto.
 
-## Infraestructura
+Nuestro portal no solo provee acceso a los materiales y guías necesarios para el desarrollo
+del proyecto, sino que también describe la infraestructura donde los estudiantes podrán publicar
+y gestionar el código de sus trabajos. El objetivo será simular un entorno profesional, proporcionando
+herramientas y plataformas que facilitan el trabajo colaborativo y la gestión del proyecto.
 
-![infraestructura](images/infraestructura.png)
+Además, contamos con un blog en el que se publica información relevante que puede ser de
+gran utilidad para el desarrollo del proyecto. Aquí, los alumnos encontrarán artículos, tutoriales,
+consejos prácticos y recursos adicionales que complementan los contenidos de la materia.
 
-## Versiones a utilizar
+Nuestro objetivo es proporcionar una experiencia educativa integral que prepare a los estudiantes para
+enfrentar los desafíos reales del desarrollo de software, fomentando habilidades técnicas, de gestión
+y de trabajo en equipo. ¡Esperamos que aprovechen al máximo todos los recursos que ponemos a su disposición
+y que disfruten de esta materia!
 
-- Lenguaje: <strong>Python 3.8.10</strong> <small>(confirmar)</small>.
-- Servidor Web: <strong>nginx/1.18.0 (Ubuntu)</strong> <small>(confirmar)</small>.
-- Dependencias Python: <strong>Poetry (1.6.1)</strong> <small>(confirmar)</small>.
-- Servidor de Base de Datos: <strong>PostgreSQL 15</strong> <small>(confirmar)</small>.
-- Node: <strong>v14.20.0 (npm 6.14.17)</strong> <small>(confirmar)</small>.
+# 💬 Cómunicación
 
-## Código en el server para cada grupo
+<div class="grid cards" markdown>
 
-<label for="number">
-  <strong>Número</strong>
+-   :fontawesome-solid-book:{ .lg .middle } __Portal de Cátedras__
 
-  <input type="number" min=0 step=1 value=0 class="md-input link" id="number" pattern="[0-9]+">
-</label>
+    ---
 
-[:material-link: Admin - Grupo #00](https://admin-grupo00.proyecto2024.linti.unlp.edu.ar/){ .md-button .md-button--primary .link #admin-link }
+    Portal oficial de la cátedra donde encontrarás información relevante sobre la materia, enunciados
+    de trabajos prácticos, el foro de consultas y otros recursos útiles.
 
-[:material-link: Portal - Grupo #00](https://grupo00.proyecto2024.linti.unlp.edu.ar/){ .md-button .md-button--primary .link #portal-link }
+    [:octicons-arrow-right-24: Ir](https://catedras.linti.unlp.edu.ar/course/view.php?id=1240)
 
-## Logs
+-   :fontawesome-brands-discord:{ .lg .middle } __Server de Discord__
 
-!!! Info
-    Pronto se publicarán los enlaces para poder visualizar los logs.
+    ---
 
-## Base de datos
+    Accede al servidor de Discord de la cátedra para comunicarte con tus compañeros y docentes
+    de manera más directa.
 
-!!! Info
-    Aquí publicaremos la dirección para acceder a la base de datos de cada grupo.
+    [:octicons-arrow-right-24: Ir](https://discord.gg/XYA6pfnshM)
 
-## Almacenamiento de objetos
 
-!!! Info
-    Pronto se publicarán los enlaces para poder acceder al almacenamiento de objetos (MINIO).
+-   :fontawesome-brands-gitlab:{ .lg .middle } __Repositorio de código__
 
-## Variables de entorno
+    ---
 
-!!! Info
-    Pronto se publicarán las variables de entorno que se deben configurar en el servidor (Vault).
+    Accede al repositorio de la cátedra donde deberás subir tu proyecto y podrás comunicarte
+    con los docentes y miembros del equipo.
+
+    [:octicons-arrow-right-24: Ir](https://gitlab.catedras.linti.unlp.edu.ar/proyecto2024/)
+
+
+-   :fontawesome-solid-envelope:{ .lg .middle } __Correo electrónico__
+
+    ---
+
+    Puedes contactarnos por correo electrónico.
+
+    [:octicons-arrow-right-24: Enviar correo](mailto:proyecto@info.unlp.edu.ar)
+
+</div>

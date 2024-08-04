@@ -30,6 +30,7 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Infraestructura: infraestructura.md
   - Explicaciones Prácticas: explicaciones.md
   - Blog:
       - blog/index.md

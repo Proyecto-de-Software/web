@@ -1,9 +1,20 @@
+---
+date: 2022-08-05
+categories:
+  - Bash
+  - Terminal
+  - SSH
+  - Setup
+---
+
 # SSH
 
 La idea de esta guía es generar una clave ssh en la máquina en donde vamos a
 trabajar durante la cursada para luego agregarla a el servidor Gitlab.
 Con este método de seguridad vamos a evitar tener que completar usuario y clave
 cada vez que realicemos una operación hacia el servidor.
+
+<!-- more -->
 
 ## Requisitos
 

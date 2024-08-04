@@ -34,7 +34,7 @@ Información de la infraestructura del servidor de la asignatura Proyecto de Sof
 ## Base de datos
 
 !!! Info
-   Aquí publicaremos la dirección para acceder a la base de datos de cada grupo.
+    Aquí publicaremos la dirección para acceder a la base de datos de cada grupo.
 
 ## Almacenamiento de objetos
 

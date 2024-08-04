@@ -1,3 +1,10 @@
+---
+date: 2023-04-22
+categories:
+  - Python
+  - Instalación
+---
+
 # Instalación de Python
 
 En esta guía vamos a ver distintas formas de realizar la instalación de
@@ -7,6 +14,8 @@ sistemas operativos.
 El objetivo es que todos los alumnos que cursen la cátedra puedan instalar
 en sus sistemas operativos la versión específica de **Python** que vamos a usar
 dentro de la cátedra.
+
+<!-- more -->
 
 El mecanismo para esto es utilizar una herramienta de manejo de versiones para
 **Python** (Python Versión Manager) en los sistemas operativos Linux y MacOS.

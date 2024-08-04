@@ -1,4 +1,17 @@
+---
+date: 2022-08-05
+categories:
+  - SSH
+  - Gitlab
+  - Setup
+---
+
 # Agregar la clave SSH en Gitlab
+
+Esta guía tiene como objetivo mostrar cómo agregar una clave SSH en Gitlab.
+La clave SSH es necesaria para poder realizar operaciones de Git de forma segura.
+
+<!-- more -->
 
 1. Primero necesitamos crear nuestra clave SSH y copiarla en el clipboard. Esto
    se puede ver en [esta guía](02_ssh.md).

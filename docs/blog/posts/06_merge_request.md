@@ -1,3 +1,11 @@
+---
+date: 2023-07-23
+categories:
+  - Gitlab
+  - Trabajo Colaborativo
+  - Merge Request
+---
+
 # Merge Request Gitlab
 
 En esta guía vamos a mostrar como realizar un **Merge Request** dentro de
@@ -9,6 +17,8 @@ varios motivos entre los que se destacan:
 - Sirve para realizar la técnica de **Code Review**.
 - Permite abrir una discusión o debate sobre la implementación de una nueva
   funcionalidad.
+
+<!-- more -->
 
 [Aquí](https://docs.gitlab.com/ee/user/project/merge_requests/) la documentación
 oficial de **Gitlab** con mucho material sobre los **Merge Request**.

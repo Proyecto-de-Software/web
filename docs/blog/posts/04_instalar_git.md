@@ -1,7 +1,15 @@
-Guía de Git
-===========
+---
+date: 2023-04-22
+categories:
+  - Git
+  - Instalación
+---
+
+# Guía de Git
 
 En la explicación práctica hablamos sobre los conceptos de `git`.
+
+<!-- more -->
 
 ## Instalación
 

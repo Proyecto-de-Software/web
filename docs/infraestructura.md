@@ -10,11 +10,13 @@ que se utilizarán, así como los accesos y recursos disponibles para los estudi
 
 ## Versiones a utilizar
 
-- Lenguaje: <strong>Python 3.8.10</strong> <small>(confirmar)</small>.
+- Lenguaje: <strong>Python 3.12.3</strong> <small>(confirmar)</small>.
+<!--
 - Servidor Web: <strong>nginx/1.18.0 (Ubuntu)</strong> <small>(confirmar)</small>.
 - Dependencias Python: <strong>Poetry (1.6.1)</strong> <small>(confirmar)</small>.
 - Servidor de Base de Datos: <strong>PostgreSQL 15</strong> <small>(confirmar)</small>.
 - Node: <strong>v14.20.0 (npm 6.14.17)</strong> <small>(confirmar)</small>.
+-->
 
 ## Código en el server para cada grupo
 

@@ -1,4 +1,5 @@
 # Explicaciones prácticas
 
-!!! Info
-    Aún no se publicó ningúna explicación práctica.
+## Clase 0 - Intro + Python básico
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gge9wPunfpc?si=wtqQnyfCRRN89OH6" title="Clase 0 - Intro + Python básico" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

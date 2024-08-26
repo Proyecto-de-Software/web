@@ -14,7 +14,7 @@ que se utilizarán, así como los accesos y recursos disponibles para los estudi
 - Servidor Web: <strong>nginx/1.24.0 (Ubuntu)</strong>.
 - Dependencias Python: <strong>Poetry (1.8.3)</strong>.
 - Servidor de Base de Datos: <strong>PostgreSQL 16</strong>.
-- Node: <strong>v14.20.0 (npm 6.14.17)</strong>.
+- Node: <strong>v22.7.0 (npm 10.8.2)</strong>.
 
 
 ## Código en el server para cada grupo

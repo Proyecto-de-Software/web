@@ -1,5 +1,9 @@
 # Explicaciones prácticas
 
+## Clase 3 - MVC + Configuración
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fCIs4s5pY3Q" title="Clase 0 - Intro + Python básico" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Clase 2 - Aplicación base
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Ab92JagUDw" title="Clase 0 - Intro + Python básico" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

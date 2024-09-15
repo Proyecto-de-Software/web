@@ -1,5 +1,9 @@
 # Explicaciones prácticas
 
+## Clase 4 - Configuración + Database + ORM
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ahanyyXGY48" title="Clase 0 - Intro + Python básico" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Clase 3 - MVC + Configuración
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fCIs4s5pY3Q" title="Clase 0 - Intro + Python básico" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

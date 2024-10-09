@@ -1,5 +1,13 @@
 # Explicaciones prácticas
 
+## Clase 7 - Minio + Vault
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v0MBGdMvNKg" title="Clase 5 - Autenticación" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Clase 6 - Server DB + Autorización
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dj6_rPzN4U0" title="Clase 5 - Autenticación" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Clase 5 - Autenticación
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0vIR2jNnsp4" title="Clase 5 - Autenticación" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

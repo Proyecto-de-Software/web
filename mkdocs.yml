@@ -35,7 +35,7 @@ nav:
   - Blog:
       - blog/index.md
   - API:
-  - api/index.html
+      - api/index.html
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:

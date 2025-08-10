@@ -30,7 +30,7 @@ y que disfruten de esta materia!
     Portal oficial de la cátedra donde encontrarás información relevante sobre la materia, enunciados
     de trabajos prácticos, el foro de consultas y otros recursos útiles.
 
-    [:octicons-arrow-right-24: Ir](https://catedras.linti.unlp.edu.ar/course/view.php?id=1240)
+    [:octicons-arrow-right-24: Ir](https://catedras.linti.unlp.edu.ar/course/view.php?id=1293)
 
 -   :fontawesome-brands-discord:{ .lg .middle } __Server de Discord__
 
@@ -39,7 +39,7 @@ y que disfruten de esta materia!
     Accede al servidor de Discord de la cátedra para comunicarte con tus compañeros y docentes
     de manera más directa.
 
-    [:octicons-arrow-right-24: Ir](https://discord.gg/XYA6pfnshM)
+    [:octicons-arrow-right-24: Ir](https://discord.gg/m9yay6fk3g)
 
 
 -   :fontawesome-brands-gitlab:{ .lg .middle } __Repositorio de código__
@@ -49,7 +49,7 @@ y que disfruten de esta materia!
     Accede al repositorio de la cátedra donde deberás subir tu proyecto y podrás comunicarte
     con los docentes y miembros del equipo.
 
-    [:octicons-arrow-right-24: Ir](https://gitlab.catedras.linti.unlp.edu.ar/proyecto2024/)
+    [:octicons-arrow-right-24: Ir](https://gitlab.catedras.linti.unlp.edu.ar/proyecto-2025/)
 
 
 -   :fontawesome-solid-envelope:{ .lg .middle } __Correo electrónico__

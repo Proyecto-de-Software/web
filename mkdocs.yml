@@ -30,12 +30,12 @@ theme:
 
 nav:
   - Inicio: index.md
-  - Infraestructura: infraestructura.md
-  - Explicaciones Prácticas: explicaciones.md
+  # - Infraestructura: infraestructura.md
+  # - Explicaciones Prácticas: explicaciones.md
   - Blog:
       - blog/index.md
-  - API:
-      - api/index.html
+  # - API:
+  #     - api/index.html
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
@@ -59,10 +59,10 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/gitlab
-      link: https://gitlab.catedras.linti.unlp.edu.ar/proyecto2024/
+      link: https://gitlab.catedras.linti.unlp.edu.ar/proyecto-2025/
     - icon: fontawesome/brands/discord
-      link: "https://discord.gg/XYA6pfnshM"
+      link: "https://discord.gg/m9yay6fk3g"
     - icon: fontawesome/solid/book
-      link: "https://catedras.linti.unlp.edu.ar/course/view.php?id=1240"
+      link: "https://catedras.linti.unlp.edu.ar/course/view.php?id=1293"
     - icon: fontawesome/solid/envelope
       link: "mailto:proyecto@info.unlp.edu.ar"

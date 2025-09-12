@@ -23,9 +23,9 @@ que se utilizarán, así como los accesos y recursos disponibles para los estudi
   <input type="number" min=0 step=1 value=0 class="md-input link" id="number" pattern="[0-9]+">
 </label>
 
-[:material-link: Admin - Grupo #00](https://admin-grupo00.proyecto2024.linti.unlp.edu.ar/){ .md-button .md-button--primary .link #admin-link }
+[:material-link: Admin - Grupo #00](https://admin-grupo00.proyecto2025.linti.unlp.edu.ar/){ .md-button .md-button--primary .link #admin-link }
 
-[:material-link: Portal - Grupo #00](https://grupo00.proyecto2024.linti.unlp.edu.ar/){ .md-button .md-button--primary .link #portal-link }
+[:material-link: Portal - Grupo #00](https://grupo00.proyecto2025.linti.unlp.edu.ar/){ .md-button .md-button--primary .link #portal-link }
 
 ## Logs
 

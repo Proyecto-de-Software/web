@@ -10,9 +10,9 @@ que se utilizarán, así como los accesos y recursos disponibles para los estudi
 
 ## Versiones a utilizar
 
-- Lenguaje: <strong>Python 3.12.3</strong>.
-- Dependencias Python: <strong>Poetry (2.1.4)</strong>.
-- Servidor Web: <strong>nginx/1.24.0 (Ubuntu)</strong>.
+- Lenguaje: <strong>Python 3.14.4</strong>.
+- Dependencias Python: <strong>Poetry (2.4.1)</strong>.
+- Servidor Web: <strong>nginx/1.28.3 (Ubuntu)</strong>.
 
 
 ## Código en el server para cada grupo
@@ -23,9 +23,9 @@ que se utilizarán, así como los accesos y recursos disponibles para los estudi
   <input type="number" min=0 step=1 value=0 class="md-input link" id="number" pattern="[0-9]+">
 </label>
 
-[:material-link: Admin - Grupo #00](https://admin-grupo00.proyecto2025.linti.unlp.edu.ar/){ .md-button .md-button--primary .link #admin-link }
+[:material-link: Admin - Grupo #00](https://admin-grupo00.proyecto2026.linti.unlp.edu.ar/){ .md-button .md-button--primary .link #admin-link }
 
-[:material-link: Portal - Grupo #00](https://grupo00.proyecto2025.linti.unlp.edu.ar/){ .md-button .md-button--primary .link #portal-link }
+[:material-link: Portal - Grupo #00](https://grupo00.proyecto2026.linti.unlp.edu.ar/){ .md-button .md-button--primary .link #portal-link }
 
 ## Logs
 
